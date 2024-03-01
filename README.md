@@ -5,3 +5,6 @@ Este repositorio contiene los archivos, bases de datos y avances del proyecto de
 ## Bases de datos 
 ### Variable dependiente 
 [Votos a nivel condado en elecciones presidenciales (2000-2020)](https://github.com/AlvaroPLZ/Proyecto---SIP-D/blob/9ca214b51a89840ff8ef53d0eb7229757e835620/BASES%20DE%20DATOS/County%20Presidential%20Elections%20Returns_2000-2020/countypres_2000-2020.xlsx)
+- La primer hoja del libro es la base de datos tal cual la descargue.
+- La segunda hoja trae los datos más resumidos y ordenados de todas las elecciones.
+- La tercera hoja muestra los datos solo de 2000, 2016 y 2020. Además incluye el porcentaje de votos que recibió cada partido con respecto del total.
