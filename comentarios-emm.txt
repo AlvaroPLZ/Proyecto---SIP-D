@@ -1,0 +1,4 @@
+* 9 de abril
+- Cree carpetas code/ y data/. Revisa el script R code/analisis.r.
+
+
