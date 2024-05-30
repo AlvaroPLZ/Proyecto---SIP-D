@@ -11,7 +11,12 @@ Este repositorio contiene los archivos, bases de datos y avances del proyecto de
 
 Esta es la base de datos definitiva: [County presidential returns 1980, 2000, 2016, 2020](https://github.com/AlvaroPLZ/Proyecto---SIP-D/blob/2f4158988543500aec3b290131dd02a776ab6157/BASES%20DE%20DATOS/County%20Presidential%20Elections%20Returns_2000-2020/countypres_1980-2020.xlsx)
 
-### Variable independiente 
+### Variables independientes 
 Race and Ethnicity 
 
 [Mexicans per county (2020)](https://github.com/AlvaroPLZ/Proyecto---SIP-D/blob/dacc2ae9bf2cc9570a0365d0d60e3d4ecf7ef8bf/BASES%20DE%20DATOS/Race%3AEthnicity_County%20level/All%20Counties_2020/2020_All%20Counties_Mexican/Mexicans%20per%20county%20(2020).xlsx)
+
+## Scripts 
+
+
+## Versión final 
